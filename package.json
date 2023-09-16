@@ -1,6 +1,6 @@
 {
   "name": "gcompr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate dir and file for new component React",
   "main": "index.js",
   "bin": {
